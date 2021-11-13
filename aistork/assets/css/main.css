@@ -1,0 +1,16 @@
+/* width */
+::-webkit-scrollbar {
+    background: transparent;
+    width: 5px;
+    height: 5px;
+}
+/* Handle */
+::-webkit-scrollbar-thumb {
+    border-radius: 8px;
+    background: rgba(229, 231, 235, 1);
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: rgba(229, 231, 235, 1);
+}
